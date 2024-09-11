@@ -6,4 +6,4 @@
 
 # Thanks for your support! Wordle has been here for two and a half years, and thanks everybody who support me.
 
-# I will update a users' guide soon.
+# [Users' Guide](../USAGE.md)
