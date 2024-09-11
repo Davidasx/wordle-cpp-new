@@ -8,7 +8,7 @@
 #include<windows.h>
 #include<graphics.h>
 using namespace std;
-string ver="3.3.17";
+string ver="3.3.18";
 string date="20240911";
 string config="\\wordle.conf";
 vector<string> keyboard={ "Q W E R T Y U I O P",
