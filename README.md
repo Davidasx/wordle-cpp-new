@@ -1,6 +1,9 @@
-# wordle-cpp
-A C++ game,similar to wordle.
+# This is the new repository for [wordle-cpp](https://github.com/Davidasx/wordle-cpp).
 
-# Note
-Please do not use the update function before version 2.7.0.
-Please download dictionary.txt to use version 2.7.0.
+# The old repository was discarded because of large numbers of excess files. Excess files greatly slowed down cloning times and I had to create a new repository.
+
+# If the program can't run, please download [VC Redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+# Thanks for your support! Wordle has been here for two and a half years, and thanks everybody who support me.
+
+# I will update a users' guide soon.
